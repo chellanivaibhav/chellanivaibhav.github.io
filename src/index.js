@@ -6,7 +6,7 @@ import Header from './components/Header';
 import registerServiceWorker from './registerServiceWorker';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import injectTapEventPlugin from 'react-tap-event-plugin';
-
+import 'semantic-ui-css/semantic.min.css';
 injectTapEventPlugin();
 
 const Main = () => (
