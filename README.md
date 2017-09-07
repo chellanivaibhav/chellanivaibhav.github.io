@@ -1,1 +1,0 @@
-Hey Visitor , This repo consists the front-end for vaibahvchellani.me . I have used react and semantic-ui , its always under development , feel free to reach out to me , publish PR`s and raise issues . Thank You .
